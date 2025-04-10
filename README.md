@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=violet&height=100&section=header&fontSize=90)
 
 
 :wave: Hi there :wave:
 
-<p>
-  <a href=https://dolpari-is-come.tistory.com target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-tistory&logo=tistory&logoColor=white"/></a>    
-  <a href=https://www.facebook.com/ppapesib target="_blank"><img src="https://img.shields.io/badge/dolpari -430098?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
+<p>  
+  <a href= https://velog.io/@r4v4g3r/posts target="_blank"><img src="https://img.shields.io/badge/R4V4G3R -430098?style=for-the-badge&logo=velog&logoColor=white"/></a> 
   <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
@@ -30,7 +29,7 @@ Hi i'm Happy :( Hacking
 * 순천향대학교 정보보호학과 ( 24학번 )
 * KUCIS
 * SecurityFirst - YB ( 2024.03 ~ )
-* SecurityFirst - Web newbie ( 2025.01.01 ~ )
+* SecurityFirst - Web newbie ( 2025.03 ~ )
 
 
 ## Qualifications
