@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=violet&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=#8A0829t&height=100&section=header&fontSize=90)
 
 
 :wave: Hi there :wave:
 
 <p>  
   <a href= https://velog.io/@r4v4g3r/posts target="_blank"><img src="https://img.shields.io/badge/R4V4G3R -430098?style=for-the-badge&logo=velog&logoColor=white"/></a> 
-  <a href="https://www.instagram.com/dolpari_05" target="_blank"><img src="https://img.shields.io/badge/dolpari-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href= https://www.instagram.com/eno.1s/ target="_blank"><img src="https://img.shields.io/badge/eno.1s-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p>
@@ -48,4 +48,5 @@ Hi i'm Happy :( Hacking
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+
 
