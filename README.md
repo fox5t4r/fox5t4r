@@ -19,7 +19,7 @@ Hi i'm Hacker :) Hacking
 
 ## Language
 * C
-* python ( 여기부턴 할 줄 모름 )
+* python ( 여기부턴 배우는 중 )
 * jS
 * html
 * php
