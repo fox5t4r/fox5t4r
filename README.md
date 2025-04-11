@@ -9,7 +9,7 @@
 </p>
 
 <p>
-Hi i'm Hacker :) Hacking  
+Hi i'm Hacker :) 
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
