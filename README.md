@@ -31,14 +31,14 @@ Hi i'm Hacker :)
 * SecurityFirst - YB ( 2024.03 ~ )
 * SecurityFirst - Web newbie ( 2025.03 ~ 2025.06 )
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
-* SecurityFirst - Web Team leader ( 2025.12 ~ )
+* SecurityFirst - Web Team Leader ( 2025.12 ~ )
 
 ## Qualifications
 * 네트워크관리사 2급 
 * 프로그래밍기능사 (전 정보처리기능사)
 
 ## Project
-* IFF Security 연합 - CMS 취약점 분석 ( 2025.07 ~ 2025.09 )
+* IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
 
 ## 분야
 * WEB
