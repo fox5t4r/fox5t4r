@@ -25,7 +25,6 @@ Hi i'm Hacker :)
 ## Affiliation  
 * 순천효천고등학교 ( 2021 ~ 2023 )
 * 순천향대학교 정보보호학과 ( 24학번 )
-* KUCIS
 * SecurityFirst - YB ( 2024.03 ~ )
 * SecurityFirst - Web newbie ( 2025.03 ~ 2025.06 )
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
