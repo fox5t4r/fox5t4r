@@ -31,7 +31,7 @@ Hi i'm Hacker :)
 * SecurityFirst - YB ( 2024.03 ~ )
 * SecurityFirst - Web newbie ( 2025.03 ~ 2025.06 )
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
-* SecurityFirst - Web Team Leader ( 2025.12 ~ )
+* SecurityFirst - Web Team  ( 2025.12 ~ )
 
 ## Qualifications
 * 네트워크관리사 2급 
