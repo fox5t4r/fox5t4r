@@ -18,11 +18,9 @@ Hi i'm Hacker :)
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
 
 ## Language
-* C
 * python
-* jS
+* JS
 * html
-* php
 
 ## Affiliation  
 * 순천효천고등학교 ( 2021 ~ 2023 )
