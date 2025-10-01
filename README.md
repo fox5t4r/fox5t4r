@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=#8A0829t&height=100&section=header&fontSize=90)
 
 
-:wave: Hi there :wave:
+:wave: Hi I'm fox5t4r :wave:
 
 <p>  
   <a href= https://velog.io/@r4v4g3r/posts target="_blank"><img src="https://img.shields.io/badge/R4V4G3R -430098?style=for-the-badge&logo=velog&logoColor=white"/></a> 
@@ -36,6 +36,7 @@ Hi i'm Hacker :)
 
 ## Project
 * IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
+* HSPACE Knights Frontier ( 2025.10 ~ 2026.03 )
 
 ## 분야
 * WEB
