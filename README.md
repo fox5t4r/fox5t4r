@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=#8A0829t&height=100&section=header&fontSize=90)
 
 
-:wave: Hi I'm fox5t4r :wave:
+:wave: Hi there :wave:
 
 <p>  
   <a href= https://velog.io/@r4v4g3r/posts target="_blank"><img src="https://img.shields.io/badge/R4V4G3R -430098?style=for-the-badge&logo=velog&logoColor=white"/></a> 
@@ -9,7 +9,7 @@
 </p>
 
 <p>
-Hi i'm Hacker :) 
+Hi I'm fox5t4r :) 
 </p>
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
