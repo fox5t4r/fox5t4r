@@ -32,7 +32,7 @@ Hi I'm fox5t4r :)
 
 ## Qualifications
 * 네트워크관리사 2급 
-* 프로그래밍기능사 (전 정보처리기능사)
+* 정보처리기능사
 
 ## Project
 * IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
