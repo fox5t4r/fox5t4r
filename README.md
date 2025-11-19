@@ -24,20 +24,20 @@ Hi I'm fox5t4r :)
 * html
 
 ## Affiliation  
-* 순천효천고등학교 ( 2021 ~ 2023 )
 * 순천향대학교 정보보호학과 ( 24학번 )
 * SecurityFirst - YB ( 2024.03 ~ )
 * SecurityFirst - Web newbie ( 2025.03 ~ 2025.06 )
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
 * SecurityFirst - Web Team  ( 2025.12 ~ )
-
+* HSPACE Knights Frontier 1기 ( 2025.10 ~ )
+  
 ## Qualifications
 * 네트워크관리사 2급 
 * 정보처리기능사
 
 ## Project
 * IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
-* HSPACE Knights Frontier 1기 ( 2025.10 ~ )
+* HSPACE Knights Frontier - Git-Based CTF ( 2025.11 )
 
 ## 분야
 * WEB
