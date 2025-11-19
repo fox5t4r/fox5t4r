@@ -37,7 +37,7 @@ Hi I'm fox5t4r :)
 
 ## Project
 * IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
-* HSPACE Knights Frontier ( 2025.10 ~ 2026.03 )
+* HSPACE Knights Frontier 1기 ( 2025.10 ~ )
 
 ## 분야
 * WEB
