@@ -28,7 +28,7 @@ Hi I'm fox5t4r :)
 * SecurityFirst - YB ( 2024.03 ~ )
 * SecurityFirst - Web newbie ( 2025.03 ~ 2025.06 )
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
-* SecurityFirst - Web Team  ( 2025.12 ~ )
+* SecurityFirst - Web Team Leader ( 2025.12 ~ )
 * HSPACE Knights Frontier 1기 ( 2025.10 ~ )
   
 ## Qualifications
