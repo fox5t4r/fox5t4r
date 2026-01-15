@@ -30,6 +30,10 @@ Hi I'm fox5t4r :)
 * SecurityFirst - Web regular ( 2025.09 ~ 2025.12 )
 * SecurityFirst - Web Team Leader ( 2025.12 ~ )
 * HSPACE Knights Frontier 1기 ( 2025.10 ~ )
+
+## 주최 및 출제
+* SecurityFirst 순천향대학교 정보보호학과 2025년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하 1 상 1 출제)
+* SecurityFirst 순천향대학교 정보보호학과 2026년도 연초 해킹 대회 - 운영 및 문제 출제 (WEB 하 2 중 1 상 1, MISC 하 1 출제)
   
 ## Qualifications
 * 네트워크관리사 2급 
