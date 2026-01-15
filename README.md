@@ -21,7 +21,8 @@ Hi I'm fox5t4r :)
 ## Language
 * python
 * JS
-* html
+* html/css
+* php
 
 ## Affiliation  
 * 순천향대학교 정보보호학과 ( 24학번 )
