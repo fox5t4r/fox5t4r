@@ -48,7 +48,7 @@ Hi I'm fox5t4r :)
 * WEB
  
 ## Contact  
-* instargram - eno.1s
+* instargram - @eno.1s
 * zxckg2005@gmail.com (for personal business)
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
