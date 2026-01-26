@@ -19,10 +19,10 @@ Hi I'm fox5t4r :)
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
 
 ## Language
-* python
+* Python
 * JS
-* html/css
-* php
+* HTML/CSS
+* PHP
 
 ## Affiliation  
 * 순천향대학교 정보보호학과 ( 24학번 )
