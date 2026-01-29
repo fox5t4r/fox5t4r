@@ -6,7 +6,7 @@
 <p>
   <a href= https://velog.io/@fox5t4r/posts target="_blank"><img src="https://img.shields.io/badge/fox5t4r -430098?style=for-the-badge&logo=velog&logoColor=white"/></a>
   <a href= https://velog.io/@r4v4g3r/posts target="_blank"><img src="https://img.shields.io/badge/R4V4G3R -430098?style=for-the-badge&logo=velog&logoColor=white"/></a> 
-  <a href= https://fox5t4r.tistory.com target="_blank"><img src="https://img.shields.io/badge/fox5t4r -430098?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href= https://fox5t4r.tistory.com target="_blank"><img src="https://img.shields.io/badge/fox5t4r -ff7b00?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href= https://www.instagram.com/eno.1s/ target="_blank"><img src="https://img.shields.io/badge/eno.1s-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
 </p>
