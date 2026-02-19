@@ -46,7 +46,8 @@ Hi I'm fox5t4r :)
 * HSPACE Knights Frontier - Git-Based CTF ( 2025.11 )
 
 ## 분야
-* WEB
+* WEB HACKING
+* AI SECURITY & RESEARCH
  
 ## Contact  
 * instargram - @eno.1s
