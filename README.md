@@ -44,6 +44,10 @@ Hi I'm fox5t4r :)
 ## Project
 * IFF Security 연합 CMS 취약점 분석 - Project Leader ( 2025.07 ~ 2025.09 )
 * HSPACE Knights Frontier - Git-Based CTF ( 2025.11 )
+* AI Developer with wrtn - See-you-later ( 2026.02 )
+
+## Toy Project
+* 순천향대학교 LMS ppt/pdf 자동 인식&다운로드 구글 확장 프로그램 ( 2026.03 )
 
 ## 분야
 * WEB HACKING
