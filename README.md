@@ -47,7 +47,7 @@ Hi I'm fox5t4r :)
 * AI Developer with wrtn - See-you-later ( 2026.02 )
 
 ## Toy Project
-* 순천향대학교 LMS ppt/pdf 자동 인식&다운로드 구글 확장 프로그램 ( 2026.03 )
+* 순천향대학교 LMS PPT/PDF 자동 인식&다운로드 구글 확장 프로그램 ( 2026.03 )
 
 ## 분야
 * WEB HACKING
