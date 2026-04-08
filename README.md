@@ -14,7 +14,7 @@
 Hi I'm fox5t4r :) 
 </p>
 
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/fox5t4r/fox5t4r/refs/heads/stats/top-langs.svg" width="49.2%" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fox5t4r&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=username)](https://solved.ac/cyb3r_syno) -->
@@ -57,7 +57,7 @@ Hi I'm fox5t4r :)
 * instargram - @eno.1s
 * zxckg2005@gmail.com (for personal business)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/fox5t4r/fox5t4r/refs/heads/stats/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
