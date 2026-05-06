@@ -51,7 +51,7 @@ Hi I'm fox5t4r :)
 
 ## 분야
 * WEB HACKING
-* AI SECURITY & RESEARCH
+* AI for SECURITY
  
 ## Contact  
 * instargram - @eno.1s
