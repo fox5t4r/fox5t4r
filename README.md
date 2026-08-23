@@ -56,10 +56,10 @@ Hi I'm fox5t4r :)
 * WSL - 동아리 연합 웹 스터디 ( 2025.10 ~ 2026.04 )
 
 ## Awards
-순천향대학교 SPARK AX 창업 아이디어톤 - 최우수상 (2nd)
-2026 AI·SW중심대학 디지털 경진대회 : AI부문 - 최우수상 (2nd)
+* 순천향대학교 SPARK AX 창업 아이디어톤 - 최우수상 (2nd)
+* 2026 AI·SW중심대학 디지털 경진대회 : AI부문 - 최우수상 (2nd)
 
-DEF CON 34 Finalist - 7th
+* DEF CON 34 Finalist - 7th
 
 ## 분야
 * WEB HACKING
