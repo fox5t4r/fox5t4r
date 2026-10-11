@@ -36,6 +36,8 @@ Hi I'm fox5t4r :)
 * SecurityFirst 순천향대학교 정보보호학과 2025년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하 1 상 1 출제)
 * SecurityFirst 순천향대학교 정보보호학과 2026년도 연초 해킹 대회 - 운영 및 문제 출제 (WEB 하 2 중 1 상 1, MISC 하 1 출제)
 * CSKWS(중앙대, 순천향대, 아주대, 서울여대, 고려대 세종) 동아리 연합 CTF - 운영 및 문제 출제 (WEB 상 1 출제)
+* SSA(숭실대, 건국대, 순천향대) 동아리 연합 CTF - 운영 및 문제 출제 (WEB 하 1 출제)
+* SecurityFirst 순천향대학교 정보보호학과 2026년도 연말 해킹 대회 - 운영 및 문제 출제 (WEB 하 3 중 1 MISC 하 1 출제)
   
 ## Qualifications
 * 네트워크관리사 2급 
@@ -62,9 +64,9 @@ Hi I'm fox5t4r :)
 
 ## 분야
 * WEB HACKING
-* Cloud/Infra Security
+* Pentesting
 * AI for SECURITY
- 
+
 ## Contact  
 * instargram - @eno.1s
 * LinkedIn - https://www.linkedin.com/in/wonsang-yoo-a781133b0/
